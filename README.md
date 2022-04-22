@@ -1,4 +1,4 @@
-# Thesis. 
+# Thesis
 ### Bachelor Thesis
 IoT Architecture Analysis in medical applications for 5g
 
