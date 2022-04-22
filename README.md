@@ -1,6 +1,6 @@
 # Thesis. 
 ### Bachelor Thesis
-ANALYSIS OF AN IoT ARCHITECTURE IN MEDICAL APPLICATIONS FOR 5G
+IoT Architecture Analysis in medical applications for 5g
 
 IoT development focused on medical applications, this approach focused on considering iot impact on 5G technology. 
 Backend development using: PHP, Python, NodeJS, Mysql Database.
